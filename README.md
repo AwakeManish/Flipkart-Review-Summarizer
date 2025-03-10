@@ -14,9 +14,7 @@ This project addresses the need for a more accurate and reliable approach to det
 
 - **Datasets:** The `datasets` folder contains seven different datasets, each representing product reviews extracted from Flipkart.
 
-- **Analysis and Evaluation:** Our primary analysis, data cleaning, sentiment analysis, rating prediction, and evaluation are conducted in the `analysis_and_evaluation` folder. This code file encompasses the entire analysis, including data preprocessing and performance evaluation.
-
-- **Project Report:** For detailed insights into the analysis and evaluation, you can access our comprehensive project report in the `Project_Report` folder. The report contains in-depth explanations of the methodology and results.
+- **Analysis and Evaluation:** Our primary analysis, data cleaning, sentiment analysis, rating prediction, and evaluation are conducted in the `Analysis and Evalution` folder. This code file encompasses the entire analysis, including data preprocessing and performance evaluation.
 
 - **Documentation:** Additional project documentation, resources, and presentations can be found in the 'Documentation' section.
 
