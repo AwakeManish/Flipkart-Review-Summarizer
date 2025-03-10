@@ -1,12 +1,8 @@
-# Customer Decision Factors and Sentiment Analysis on Flipkart Product Review Data
+# FlipKart Review Summarizer
 
 ## Project Overview
 
-**Project Name:** FACTORS AFFECTING CUSTOMER DECISION - SENTIMENTAL ANALYSIS USING FLIPKART PRODUCT REVIEW DATA
-
-**Institution:** Dublin Business School, Ireland
-
-Welcome to the repository for our research project, "Factors Affecting Customer Decision - Sentiment Analysis Using Flipkart Product Review Data." This project was conducted as part of the final semester research presentation at Dublin Business School, Ireland.
+**Project Name:** FlipKart Review Summarizer
 
 ## Abstract
 
@@ -30,18 +26,13 @@ To replicate our research and analysis, follow the instructions provided in the 
 
 ### Data Collection
 
-1. Navigate to the `data_collection` folder to find the Python script and/or notebook used for web scraping Flipkart reviews.
+1. Navigate to the `Data Collection` folder to find the Python script and/or notebook used for web scraping Flipkart reviews.
 
 ### Analysis, Data Cleaning, and Evaluation
 
-1. The main analysis, including data cleaning, sentiment analysis, rating prediction, and evaluation, is conducted in the `analysis_and_evaluation` folder. Start with the notebook file titled `Ajumon_Remesan_Project_Review_Analysis.ipynb`. This notebook contains the merging of datasets, data cleaning, sentiment analysis, rating prediction, and graphical representations of the analysis results.
-
-### Project Report
-
-1. Access the detailed project report for a comprehensive understanding of the analysis and evaluation [here](./Project_Report/Ajumon_Remesan_Project_Report.pdf).
+1. The main analysis, including data cleaning, sentiment analysis, rating prediction, and evaluation, is conducted in the `Analysis and Evalution` folder. Start with the notebook file titled `Project_Review_Analysis.ipynb`. This notebook contains the merging of datasets, data cleaning, sentiment analysis, rating prediction, and graphical representations of the analysis results.
 
 ## Conclusion
 
 Our project demonstrates the utility of sentiment analysis in predicting customer ratings based on their reviews. By implementing this approach, businesses can obtain more accurate and reliable feedback, leading to improved customer satisfaction and informed decision-making processes.
 
-For any questions or collaborations, feel free to contact the project contributors. Thank you for your interest in our research project!
