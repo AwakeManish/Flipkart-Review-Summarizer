@@ -1,0 +1,173 @@
+title,aspect_category,avg_score,positive_pct,negative_pct,neutral_pct,mentions
+"Infinix Note 40X 5G (Lime Green, 256 GB)  (8 GB RAM)",Battery,0.6369,100.0,0.0,0.0,1
+"Infinix Note 40X 5G (Lime Green, 256 GB)  (8 GB RAM)",Connectivity,0.9882,100.0,0.0,0.0,1
+"Infinix Note 40X 5G (Lime Green, 256 GB)  (8 GB RAM)",Face Unlock / Fingerprint,0.5029,100.0,0.0,0.0,1
+"Infinix Note 40X 5G (Lime Green, 256 GB)  (8 GB RAM)",Performance,0.46080000000000004,100.0,0.0,0.0,3
+"Infinix Note 50x 5G+ (Enchanted Purple, 128 GB)  (6 GB RAM)",Battery,0.8834,100.0,0.0,0.0,1
+"Infinix Note 50x 5G+ (Enchanted Purple, 128 GB)  (6 GB RAM)",Display,0.7391,100.0,0.0,0.0,1
+"Infinix Note 50x 5G+ (Enchanted Purple, 128 GB)  (6 GB RAM)",Face Unlock / Fingerprint,-0.5267,0.0,100.0,0.0,1
+"Infinix Note 50x 5G+ (Enchanted Purple, 128 GB)  (6 GB RAM)",Performance,0.683975,75.0,0.0,25.0,4
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (12 GB RAM)",Battery,0.81245,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (12 GB RAM)",Camera,0.7136,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (12 GB RAM)",Design,0.76175,100.0,0.0,0.0,4
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (12 GB RAM)",Face Unlock / Fingerprint,0.8816999999999999,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (12 GB RAM)",Performance,0.8816999999999999,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (12 GB RAM)",Software,0.6705,100.0,0.0,0.0,1
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (8 GB RAM)",Accessories,0.70065,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (8 GB RAM)",Battery,0.6209333333333333,100.0,0.0,0.0,3
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (8 GB RAM)",Camera,0.2134,50.0,50.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (8 GB RAM)",Connectivity,0.6466,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (8 GB RAM)",Design,0.8797166666666666,100.0,0.0,0.0,6
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (8 GB RAM)",Display,0.3381,100.0,0.0,0.0,1
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (8 GB RAM)",Face Unlock / Fingerprint,0.5736,100.0,0.0,0.0,1
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (8 GB RAM)",Performance,0.700275,100.0,0.0,0.0,4
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",Accessories,0.70065,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",Battery,0.6209333333333333,100.0,0.0,0.0,3
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",Camera,0.2134,50.0,50.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",Connectivity,0.6466,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",Design,0.8797166666666666,100.0,0.0,0.0,6
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",Display,0.3381,100.0,0.0,0.0,1
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",Face Unlock / Fingerprint,0.5736,100.0,0.0,0.0,1
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",Performance,0.700275,100.0,0.0,0.0,4
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (12 GB RAM)",Battery,0.81245,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (12 GB RAM)",Camera,0.7136,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (12 GB RAM)",Design,0.76175,100.0,0.0,0.0,4
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (12 GB RAM)",Face Unlock / Fingerprint,0.8816999999999999,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (12 GB RAM)",Performance,0.8816999999999999,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (12 GB RAM)",Software,0.6705,100.0,0.0,0.0,1
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",Accessories,0.70065,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",Battery,0.6209333333333333,100.0,0.0,0.0,3
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",Camera,0.2134,50.0,50.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",Connectivity,0.6466,100.0,0.0,0.0,2
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",Design,0.8797166666666666,100.0,0.0,0.0,6
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",Display,0.3381,100.0,0.0,0.0,1
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",Face Unlock / Fingerprint,0.5736,100.0,0.0,0.0,1
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",Performance,0.700275,100.0,0.0,0.0,4
+"MOTOROLA g05 (Plum Red, 64 GB)  (4 GB RAM)",Accessories,0.9062,100.0,0.0,0.0,1
+"MOTOROLA g05 (Plum Red, 64 GB)  (4 GB RAM)",Audio,0.1255,100.0,0.0,0.0,1
+"MOTOROLA g05 (Plum Red, 64 GB)  (4 GB RAM)",Performance,0.5421,100.0,0.0,0.0,4
+"MOTOROLA g05 (Plum Red, 64 GB)  (4 GB RAM)",Software,0.5984,100.0,0.0,0.0,1
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)  (12 GB RAM)",Battery,0.90443,100.0,0.0,0.0,10
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)  (12 GB RAM)",Camera,0.9378,100.0,0.0,0.0,2
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)  (12 GB RAM)",Connectivity,0.6246666666666667,100.0,0.0,0.0,3
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)  (12 GB RAM)",Design,0.8344714285714286,100.0,0.0,0.0,14
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)  (12 GB RAM)",Display,0.8842800000000001,100.0,0.0,0.0,5
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)  (12 GB RAM)",Face Unlock / Fingerprint,0.6811,100.0,0.0,0.0,4
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)  (12 GB RAM)",Performance,0.8189125,100.0,0.0,0.0,8
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)  (12 GB RAM)",Software,0.8373999999999999,100.0,0.0,0.0,2
+"Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",Accessories,0.6990000000000001,100.0,0.0,0.0,2
+"Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",Battery,0.78176,100.0,0.0,0.0,5
+"Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",Camera,0.863,100.0,0.0,0.0,2
+"Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",Design,0.715275,100.0,0.0,0.0,8
+"Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",Face Unlock / Fingerprint,0.7380333333333334,100.0,0.0,0.0,3
+"Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",Performance,0.48510000000000003,83.33333333333334,16.666666666666664,0.0,6
+"Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",Software,0.9425,100.0,0.0,0.0,2
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (4 GB RAM)",Battery,0.8689,100.0,0.0,0.0,1
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (4 GB RAM)",Connectivity,-0.71595,0.0,100.0,0.0,2
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (4 GB RAM)",Design,0.77095,100.0,0.0,0.0,4
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (4 GB RAM)",Display,0.8844000000000001,100.0,0.0,0.0,2
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (4 GB RAM)",Face Unlock / Fingerprint,0.7664333333333334,100.0,0.0,0.0,3
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (4 GB RAM)",Performance,0.6965833333333333,100.0,0.0,0.0,6
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",Battery,-0.7619,0.0,100.0,0.0,1
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",Connectivity,0.8885,100.0,0.0,0.0,1
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",Design,0.9081,100.0,0.0,0.0,1
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",Display,0.6464666666666666,83.33333333333334,0.0,16.666666666666664,6
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",Face Unlock / Fingerprint,-0.8616,0.0,100.0,0.0,1
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",Performance,0.5457375,87.5,12.5,0.0,8
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",Software,0.637575,75.0,0.0,25.0,4
+"Motorola g45 5G (Pink Lavender, 128 GB)  (8 GB RAM)",Display,0.884,100.0,0.0,0.0,2
+"Motorola g45 5G (Pink Lavender, 128 GB)  (8 GB RAM)",Performance,0.8768333333333334,100.0,0.0,0.0,6
+"Motorola g45 5G (Viva Magenta, 128 GB)  (8 GB RAM)",Battery,-0.7619,0.0,100.0,0.0,1
+"Motorola g45 5G (Viva Magenta, 128 GB)  (8 GB RAM)",Connectivity,0.8885,100.0,0.0,0.0,1
+"Motorola g45 5G (Viva Magenta, 128 GB)  (8 GB RAM)",Design,0.9081,100.0,0.0,0.0,1
+"Motorola g45 5G (Viva Magenta, 128 GB)  (8 GB RAM)",Display,0.6464666666666666,83.33333333333334,0.0,16.666666666666664,6
+"Motorola g45 5G (Viva Magenta, 128 GB)  (8 GB RAM)",Face Unlock / Fingerprint,-0.8616,0.0,100.0,0.0,1
+"Motorola g45 5G (Viva Magenta, 128 GB)  (8 GB RAM)",Performance,0.5457375,87.5,12.5,0.0,8
+"Motorola g45 5G (Viva Magenta, 128 GB)  (8 GB RAM)",Software,0.637575,75.0,0.0,25.0,4
+"Motorola g64 5G (Ice Lilac, 128 GB)  (8 GB RAM)",Battery,0.48082500000000006,75.0,25.0,0.0,4
+"Motorola g64 5G (Ice Lilac, 128 GB)  (8 GB RAM)",Camera,0.707,100.0,0.0,0.0,1
+"Motorola g64 5G (Ice Lilac, 128 GB)  (8 GB RAM)",Design,-0.0824,0.0,66.66666666666666,33.33333333333333,3
+"Motorola g64 5G (Ice Lilac, 128 GB)  (8 GB RAM)",Display,0.889,100.0,0.0,0.0,4
+"Motorola g64 5G (Ice Lilac, 128 GB)  (8 GB RAM)",Face Unlock / Fingerprint,0.905625,100.0,0.0,0.0,4
+"Motorola g64 5G (Ice Lilac, 128 GB)  (8 GB RAM)",Performance,0.74633,100.0,0.0,0.0,10
+"Motorola g64 5G (Mint Green, 256 GB)  (12 GB RAM)",Battery,0.43426666666666663,66.66666666666666,16.666666666666664,16.666666666666664,6
+"Motorola g64 5G (Mint Green, 256 GB)  (12 GB RAM)",Camera,0.5502666666666667,66.66666666666666,0.0,33.33333333333333,3
+"Motorola g64 5G (Mint Green, 256 GB)  (12 GB RAM)",Design,0.266,33.33333333333333,33.33333333333333,33.33333333333333,3
+"Motorola g64 5G (Mint Green, 256 GB)  (12 GB RAM)",Display,0.6297,100.0,0.0,0.0,1
+"Motorola g64 5G (Mint Green, 256 GB)  (12 GB RAM)",Face Unlock / Fingerprint,0.8074,100.0,0.0,0.0,1
+"Motorola g64 5G (Mint Green, 256 GB)  (12 GB RAM)",Performance,0.5963833333333334,83.33333333333334,0.0,16.666666666666664,6
+"Motorola g64 5G (Mint Green, 256 GB)  (12 GB RAM)",Software,0.79035,100.0,0.0,0.0,2
+"Motorola g64 5G (Mint Green, 256 GB)  (12 GB RAM)",Storage,0.3415,100.0,0.0,0.0,1
+"Motorola g64 5G (Pearl Blue, 256 GB)  (12 GB RAM)",Battery,0.43426666666666663,66.66666666666666,16.666666666666664,16.666666666666664,6
+"Motorola g64 5G (Pearl Blue, 256 GB)  (12 GB RAM)",Camera,0.5502666666666667,66.66666666666666,0.0,33.33333333333333,3
+"Motorola g64 5G (Pearl Blue, 256 GB)  (12 GB RAM)",Design,0.266,33.33333333333333,33.33333333333333,33.33333333333333,3
+"Motorola g64 5G (Pearl Blue, 256 GB)  (12 GB RAM)",Display,0.6297,100.0,0.0,0.0,1
+"Motorola g64 5G (Pearl Blue, 256 GB)  (12 GB RAM)",Face Unlock / Fingerprint,0.8074,100.0,0.0,0.0,1
+"Motorola g64 5G (Pearl Blue, 256 GB)  (12 GB RAM)",Performance,0.5963833333333334,83.33333333333334,0.0,16.666666666666664,6
+"Motorola g64 5G (Pearl Blue, 256 GB)  (12 GB RAM)",Software,0.79035,100.0,0.0,0.0,2
+"Motorola g64 5G (Pearl Blue, 256 GB)  (12 GB RAM)",Storage,0.3415,100.0,0.0,0.0,1
+"POCO C61 (Diamond Dust Black, 64 GB)  (4 GB RAM)",Audio,0.8225,100.0,0.0,0.0,1
+"POCO C61 (Diamond Dust Black, 64 GB)  (4 GB RAM)",Battery,0.5859,100.0,0.0,0.0,1
+"POCO C61 (Diamond Dust Black, 64 GB)  (4 GB RAM)",Display,0.5000666666666667,100.0,0.0,0.0,3
+"POCO C61 (Diamond Dust Black, 64 GB)  (4 GB RAM)",Face Unlock / Fingerprint,0.6348,66.66666666666666,0.0,33.33333333333333,3
+"POCO C61 (Diamond Dust Black, 64 GB)  (4 GB RAM)",Performance,0.4930666666666667,66.66666666666666,16.666666666666664,16.666666666666664,6
+"POCO C75 5G (Aqua Bliss, 64 GB)  (4 GB RAM)",Accessories,0.1779,100.0,0.0,0.0,1
+"POCO C75 5G (Aqua Bliss, 64 GB)  (4 GB RAM)",Display,0.8316,100.0,0.0,0.0,1
+"POCO C75 5G (Aqua Bliss, 64 GB)  (4 GB RAM)",Storage,0.7906,100.0,0.0,0.0,1
+"POCO C75 5G (Silver Stardust, 64 GB)  (4 GB RAM)",Accessories,0.1779,100.0,0.0,0.0,1
+"POCO C75 5G (Silver Stardust, 64 GB)  (4 GB RAM)",Battery,0.67545,100.0,0.0,0.0,2
+"POCO C75 5G (Silver Stardust, 64 GB)  (4 GB RAM)",Connectivity,0.9371,100.0,0.0,0.0,1
+"POCO C75 5G (Silver Stardust, 64 GB)  (4 GB RAM)",Display,0.6428,75.0,0.0,25.0,4
+"POCO C75 5G (Silver Stardust, 64 GB)  (4 GB RAM)",Face Unlock / Fingerprint,0.3661,75.0,25.0,0.0,4
+"POCO C75 5G (Silver Stardust, 64 GB)  (4 GB RAM)",Performance,0.586425,87.5,12.5,0.0,8
+"POCO C75 5G (Silver Stardust, 64 GB)  (4 GB RAM)",Storage,0.7906,100.0,0.0,0.0,1
+"POCO M6 Plus 5G (Misty Lavender, 128 GB)  (6 GB RAM)",Battery,0.8810399999999999,100.0,0.0,0.0,5
+"POCO M6 Plus 5G (Misty Lavender, 128 GB)  (6 GB RAM)",Camera,0.9559,100.0,0.0,0.0,1
+"POCO M6 Plus 5G (Misty Lavender, 128 GB)  (6 GB RAM)",Design,0.926,100.0,0.0,0.0,1
+"POCO M6 Plus 5G (Misty Lavender, 128 GB)  (6 GB RAM)",Display,0.6688000000000001,100.0,0.0,0.0,4
+"POCO M6 Plus 5G (Misty Lavender, 128 GB)  (6 GB RAM)",Performance,0.92034,100.0,0.0,0.0,5
+"POCO M6 Plus 5G (Misty Lavender, 128 GB)  (6 GB RAM)",Software,-0.4588,0.0,100.0,0.0,1
+"REDMI 13 5G (Hawaiian Blue, 128 GB)  (6 GB RAM)",Battery,0.7101333333333333,100.0,0.0,0.0,3
+"REDMI 13 5G (Hawaiian Blue, 128 GB)  (6 GB RAM)",Design,0.4295,66.66666666666666,0.0,33.33333333333333,3
+"REDMI 13 5G (Hawaiian Blue, 128 GB)  (6 GB RAM)",Display,0.8225,100.0,0.0,0.0,1
+"REDMI 13 5G (Hawaiian Blue, 128 GB)  (6 GB RAM)",Face Unlock / Fingerprint,0.7906,100.0,0.0,0.0,1
+"REDMI 13 5G (Hawaiian Blue, 128 GB)  (6 GB RAM)",Performance,0.625875,100.0,0.0,0.0,4
+"REDMI A3X (Starry White, 64 GB)  (3 GB RAM)",Face Unlock / Fingerprint,-0.2732,0.0,100.0,0.0,1
+"REDMI A3X (Starry White, 64 GB)  (3 GB RAM)",Performance,-0.2732,0.0,100.0,0.0,1
+"SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)  (4 GB RAM)",Battery,0.8845,100.0,0.0,0.0,2
+"SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)  (4 GB RAM)",Connectivity,0.0,0.0,0.0,100.0,1
+"SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)  (4 GB RAM)",Display,0.9674,100.0,0.0,0.0,1
+"SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)  (4 GB RAM)",Performance,0.2382,100.0,0.0,0.0,1
+"SAMSUNG M05 (Mint Green, 64 GB)  (4 GB RAM)",Performance,0.6249,100.0,0.0,0.0,1
+"realme C61 (Marble Black, 64 GB)  (4 GB RAM)",Design,0.5423,100.0,0.0,0.0,1
+"realme C61 (Marble Black, 64 GB)  (4 GB RAM)",Face Unlock / Fingerprint,0.7397,100.0,0.0,0.0,2
+"realme C61 (Marble Black, 64 GB)  (4 GB RAM)",Performance,0.49313333333333337,66.66666666666666,0.0,33.33333333333333,3
+"realme P2 Pro 5G (Parrot Green, 128 GB)  (8 GB RAM)",Battery,0.6232,100.0,0.0,0.0,3
+"realme P2 Pro 5G (Parrot Green, 128 GB)  (8 GB RAM)",Design,0.8173,100.0,0.0,0.0,1
+"realme P2 Pro 5G (Parrot Green, 128 GB)  (8 GB RAM)",Display,0.964,100.0,0.0,0.0,1
+"realme P2 Pro 5G (Parrot Green, 128 GB)  (8 GB RAM)",Face Unlock / Fingerprint,0.87155,100.0,0.0,0.0,2
+"realme P2 Pro 5G (Parrot Green, 128 GB)  (8 GB RAM)",Performance,0.9072,100.0,0.0,0.0,4
+"realme P3 5G (Space Silver, 128 GB)  (6 GB RAM)",Battery,0.7817666666666666,100.0,0.0,0.0,3
+"realme P3 5G (Space Silver, 128 GB)  (6 GB RAM)",Connectivity,0.808,100.0,0.0,0.0,1
+"realme P3 5G (Space Silver, 128 GB)  (6 GB RAM)",Design,0.86065,100.0,0.0,0.0,2
+"realme P3 5G (Space Silver, 128 GB)  (6 GB RAM)",Performance,0.8847666666666667,100.0,0.0,0.0,3
+"realme P3 5G (Space Silver, 128 GB)  (6 GB RAM)",Software,0.027700000000000002,50.0,50.0,0.0,2
+"realme P3x 5G (Lunar Silver, 128 GB)  (6 GB RAM)",Battery,0.820275,100.0,0.0,0.0,4
+"realme P3x 5G (Lunar Silver, 128 GB)  (6 GB RAM)",Design,0.654,100.0,0.0,0.0,2
+"realme P3x 5G (Lunar Silver, 128 GB)  (6 GB RAM)",Performance,0.8847,100.0,0.0,0.0,1
+"vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",Audio,0.9856,100.0,0.0,0.0,1
+"vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",Battery,0.8656,100.0,0.0,0.0,6
+"vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",Camera,0.817325,100.0,0.0,0.0,4
+"vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",Connectivity,-0.15395,50.0,50.0,0.0,2
+"vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",Design,0.9349333333333334,100.0,0.0,0.0,3
+"vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",Display,0.7660333333333332,100.0,0.0,0.0,6
+"vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",Face Unlock / Fingerprint,0.8334666666666667,100.0,0.0,0.0,6
+"vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",Performance,0.6702916666666666,91.66666666666666,0.0,8.333333333333332,12
+"vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",Accessories,0.19715,50.0,50.0,0.0,2
+"vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",Audio,0.7879,100.0,0.0,0.0,1
+"vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",Battery,0.6140000000000001,80.0,20.0,0.0,5
+"vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",Connectivity,0.7879,100.0,0.0,0.0,1
+"vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",Design,0.7257,100.0,0.0,0.0,4
+"vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",Face Unlock / Fingerprint,0.88785,100.0,0.0,0.0,2
+"vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",Performance,0.7611333333333333,100.0,0.0,0.0,9
+"vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",Software,0.8993,100.0,0.0,0.0,1

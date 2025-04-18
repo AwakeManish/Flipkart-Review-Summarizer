@@ -1,0 +1,37 @@
+price,battery_capacity,display_type,camera_mp,network_type,ram,storage,processor_type,useful_to_sell
+12999,5000,Full HD+,110,4,8,256,Dimensity 6300,0
+11499,5500,HD+ IPS LCD Display,50,4,6,128,Dimensity 7300 Ultimate,0
+22999,5000,Full HD+ pOLED Endless Edge Display,63,4,12,256,7s Gen 2,1
+24999,5500,Super HD+ 1.5K,63,4,12,256,Dimensity 7400,0
+22999,5500,Super HD+ 1.5K,63,4,8,256,Dimensity 7400,1
+22999,5500,Super HD+ 1.5K,63,4,8,256,Dimensity 7400,1
+24999,5500,Super HD+ 1.5K,63,4,12,256,Dimensity 7400,1
+22999,5500,Super HD+ 1.5K,63,4,8,256,Dimensity 7400,1
+7299,5200,HD+ LCD,50,3,4,64,Helio G81,0
+9999,5000,HD+ 120Hz IPS LCD,52,4,4,128,Snapdragon 6s Gen 3,0
+11999,5000,HD+ 120Hz IPS LCD,52,4,8,128,Snapdragon 6s Gen 3,1
+11999,5000,HD+ 120Hz IPS LCD,52,4,8,128,Snapdragon 6s Gen 3,1
+11999,5000,HD+ 120Hz IPS LCD,52,4,8,128,Snapdragon 6s Gen 3,0
+12999,6000,Full HD+ LCD,58,4,8,128,Dimensity 7025,1
+14999,6000,Full HD+ LCD,58,4,12,256,Dimensity 7025,1
+14999,6000,Full HD+ LCD,58,4,12,256,Dimensity 7025,1
+16999,5000,pOLED Endless Edge Display,58,4,8,128,6s Gen 3,1
+6979,5000,HD+ 90Hz Display with Gorilla Glass 3 Protection,8,4,4,64,Helio G36,0
+5999,5200,120Hz Adaptive HD+ Display,32,4,4,64,"Unisoc T7250
+Max clock speed: 
+2 x A75@1.8GHz
+6 x A55@1.6GHz",1
+7999,5160,HD+ Display,50,5,4,64,4s Gen 2 5G,0
+7799,5160,HD+ Display,50,5,4,64,4s Gen 2 5G,1
+9999,5030,Unknown,110,5,6,128,Snapdragon 4 Gen2 AE,0
+7699,5000,HD+ LCD,32,3,4,64,T612,1
+18999,5200,Full HD+ OLED,58,5,8,128,7s Gen2,0
+13999,6000,Full HD LCD Display,50,4,6,128,Dimensity 6400,1
+16999,6000,Full HD+ AMOLED,52,4,6,128,6 Gen 4,0
+11998,5030,"IPS LCD, 120Hz, 550 nits (HBM)",108,1,6,128,Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm),1
+6199,5000,HD+ 90Hz Display with GG3 Protection,8,4,3,64,Unisoc,1
+6499,5000,HD+,52,3,4,64,Helio G85,1
+9199,5000,PLS LCD,52,4,4,128,Dimensity 6300,0
+7284,5000,Unknown,50,1,4,64,Mediatek,1
+22999,5500,Full HD+ AMOLED,58,4,8,128,Snapdragon 7 Gen 3,0
+13999,6500,Full HD+ 120Hz Display,52,4,6,128,Dimensity 7300 5G,0

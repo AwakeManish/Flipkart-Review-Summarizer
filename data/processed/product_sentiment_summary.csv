@@ -1,0 +1,33 @@
+title,avg_sentiment,positive_pct,negative_pct,neutral_pct,total_reviews,overall_sentiment
+"Infinix Note 40X 5G (Lime Green, 256 GB)  (8 GB RAM)",0.43274700000000005,82.0,10.0,8.0,100,Mostly Positive
+"Infinix Note 50x 5G+ (Enchanted Purple, 128 GB)  (6 GB RAM)",0.490242,91.0,3.0,6.0,100,Mostly Positive
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (12 GB RAM)",0.480635,81.0,11.0,8.0,100,Mostly Positive
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (8 GB RAM)",0.584657,89.0,4.0,7.000000000000001,100,Mostly Positive
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",0.584657,89.0,4.0,7.000000000000001,100,Mostly Positive
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (12 GB RAM)",0.480635,81.0,11.0,8.0,100,Mostly Positive
+"MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",0.584657,89.0,4.0,7.000000000000001,100,Mostly Positive
+"MOTOROLA g05 (Plum Red, 64 GB)  (4 GB RAM)",0.506505,86.0,5.0,9.0,100,Mostly Positive
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)  (12 GB RAM)",0.625940119760479,89.82035928143712,4.790419161676647,5.389221556886228,167,Mostly Positive
+"Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",0.6753319999999999,94.0,3.0,3.0,100,Mostly Positive
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (4 GB RAM)",0.512857,85.0,7.000000000000001,8.0,100,Mostly Positive
+"Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",0.51005,84.0,7.000000000000001,9.0,100,Mostly Positive
+"Motorola g45 5G (Pink Lavender, 128 GB)  (8 GB RAM)",0.61422,90.0,10.0,0.0,20,Mostly Positive
+"Motorola g45 5G (Viva Magenta, 128 GB)  (8 GB RAM)",0.51005,84.0,7.000000000000001,9.0,100,Mostly Positive
+"Motorola g64 5G (Ice Lilac, 128 GB)  (8 GB RAM)",0.4088357142857143,74.10714285714286,16.071428571428573,9.821428571428571,112,Mostly Positive
+"Motorola g64 5G (Mint Green, 256 GB)  (12 GB RAM)",0.3926070796460177,73.45132743362832,17.699115044247787,8.849557522123893,113,Mostly Positive
+"Motorola g64 5G (Pearl Blue, 256 GB)  (12 GB RAM)",0.3926070796460177,73.45132743362832,17.699115044247787,8.849557522123893,113,Mostly Positive
+"POCO C61 (Diamond Dust Black, 64 GB)  (4 GB RAM)",0.4757526785714286,80.35714285714286,6.25,13.392857142857142,112,Mostly Positive
+"POCO C71  - Locked with Airtel Prepaid (Cool Blue, 64 GB)  (4 GB RAM)",0.43907727272727276,84.0909090909091,6.8181818181818175,9.090909090909092,44,Mostly Positive
+"POCO C75 5G (Aqua Bliss, 64 GB)  (4 GB RAM)",0.52058,86.66666666666667,3.3333333333333335,10.0,30,Mostly Positive
+"POCO C75 5G (Silver Stardust, 64 GB)  (4 GB RAM)",0.5653050000000001,91.0,4.0,5.0,100,Mostly Positive
+"POCO M6 Plus 5G (Misty Lavender, 128 GB)  (6 GB RAM)",0.5364260000000001,90.0,5.0,5.0,100,Mostly Positive
+"REDMI 13 5G (Hawaiian Blue, 128 GB)  (6 GB RAM)",0.551542,93.0,2.0,5.0,100,Mostly Positive
+"REDMI A3X (Starry White, 64 GB)  (3 GB RAM)",0.23578300000000002,68.0,23.0,9.0,100,Mostly Positive
+"SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)  (4 GB RAM)",0.5260983333333333,95.0,1.6666666666666667,3.3333333333333335,60,Mostly Positive
+"SAMSUNG M05 (Mint Green, 64 GB)  (4 GB RAM)",0.31708641975308643,75.30864197530865,14.814814814814813,9.876543209876543,81,Mostly Positive
+"realme C61 (Marble Black, 64 GB)  (4 GB RAM)",0.48647399999999996,91.0,4.0,5.0,100,Mostly Positive
+"realme P2 Pro 5G (Parrot Green, 128 GB)  (8 GB RAM)",0.551632,87.0,4.0,9.0,100,Mostly Positive
+"realme P3 5G (Space Silver, 128 GB)  (6 GB RAM)",0.49143100000000006,81.0,11.0,8.0,100,Mostly Positive
+"realme P3x 5G (Lunar Silver, 128 GB)  (6 GB RAM)",0.45258200000000004,85.0,3.0,12.0,100,Mostly Positive
+"vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",0.644563,95.0,3.0,2.0,100,Mostly Positive
+"vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",0.584095,95.0,1.0,4.0,100,Mostly Positive
